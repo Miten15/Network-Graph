@@ -808,6 +808,5 @@ const GraphComponent = ({ data }) => {
     </div>
   );
 };
-
 export default GraphComponent;
 
